@@ -1,0 +1,6 @@
+[submodule "mailbag-server"]
+	path = mailbag-server
+	url = https://github.com/prLorence/mailbag-server
+[submodule "mailbag-client"]
+	path = mailbag-client
+	url = https://github.com/prLorence/mailbag-client
